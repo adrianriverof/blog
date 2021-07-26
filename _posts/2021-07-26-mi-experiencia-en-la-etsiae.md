@@ -1,7 +1,7 @@
 ---
 layout: default-slate
 date: 2021-07-26
-permalink: "/:title/"
+permalink: "/blog/:title/"
 ---
 
 # Mi experiencia en la ETSIAE
@@ -270,5 +270,5 @@ Buena suerte.
 
 Sé que muchos ingenieros tienen en mente estudiar algo a distancia una vez acaben la carrera presencial, he elaborado este post con alguna información que puede ser útil al respecto.
 
-<a href="/la-uned-para-un-ex-aero/">La UNED para un ex-aero</a>
+<a href="/blog/la-uned-para-un-ex-aero/">La UNED para un ex-aero</a>
 
