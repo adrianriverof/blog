@@ -1,6 +1,6 @@
 ---
 layout: default-slate
-permalink: "/:title/"
+permalink: "/blog/:title/"
 ---
 
 
