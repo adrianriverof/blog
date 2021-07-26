@@ -272,3 +272,12 @@ Sé que muchos ingenieros tienen en mente estudiar algo a distancia una vez acab
 
 <a href="/blog/la-uned-para-un-ex-aero/">La UNED para un ex-aero</a>
 
+
+
+<script src="https://utteranc.es/client.js"
+        repo="adrianriverof/blog"
+        issue-term="pathname"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>

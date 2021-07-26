@@ -80,5 +80,12 @@ Creo que eso es todo lo que se me ocurre que pueda resultar relevante, por últi
 No dudéis en preguntar lo que queráis en los comentarios o por Twitter, si veo algo interesante de lo que no haya hablado y me pregunte alguien lo puedo añadir posteriormente.
 
 
+<script src="https://utteranc.es/client.js"
+        repo="adrianriverof/blog"
+        issue-term="pathname"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
