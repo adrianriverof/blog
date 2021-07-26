@@ -274,10 +274,11 @@ Sé que muchos ingenieros tienen en mente estudiar algo a distancia una vez acab
 
 
 
+
 <script src="https://utteranc.es/client.js"
         repo="adrianriverof/blog"
         issue-term="pathname"
-        theme="photon-dark"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

@@ -83,9 +83,8 @@ No dudéis en preguntar lo que queráis en los comentarios o por Twitter, si veo
 <script src="https://utteranc.es/client.js"
         repo="adrianriverof/blog"
         issue-term="pathname"
-        theme="photon-dark"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
-
 
