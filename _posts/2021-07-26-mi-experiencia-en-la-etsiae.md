@@ -1,7 +1,7 @@
 ---
 layout: default-slate
 date: 2021-07-26
-permalink: "/blog/:title/"
+permalink: "/:title/"
 ---
 
 # Mi experiencia en la ETSIAE
