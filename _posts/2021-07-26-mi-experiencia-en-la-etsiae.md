@@ -12,7 +12,7 @@ Ha pasado más de un año desde que decidí abandonar mi lamentable trayectoria 
 Tras mi decisión, en plena cuarentena, me dispuse a repetir la fase específica de selectividad, para solicitar acceso a grados de ingeniería en otras universidades y, principalmente, a grados de física, porque ahora tenía una mejor visión de lo que eran estos estudios, y me conocía mejor.
 Me admitieron en Alicante y en Madrid, pero finalmente me decidí por la UNED, (por motivos personales, y por la pandemia).
 
-En este artículo quiero repasar mi trayectoria por la ETSIAE. No pretendo dar una visión muy objetiva, cada uno estudia y aprende de maneras distintas, aunque en muchas cosas podemos coincidir. Tras un año estudiando de forma autónoma por la UNED, y tras haber hablado con muchos alumnos de distintas universidades, ya que investigué a fondo cada universidad a la que me interesaba entrar tras dejar la UPM (por terror a terminar en una situación similar), he llegado a ciertas conclusiones que tal vez puedan resultar interesantes o útiles, igual que me fué útil a mí leer aquel escrito que un alumno graduado hizo hablando sobre la escuela, que fue una de las cosas que me ayudó a ver que no ese no era mi lugar.
+En este artículo quiero repasar mi trayectoria por la ETSIAE. No pretendo dar una visión muy objetiva, cada uno estudia y aprende de maneras distintas, aunque en muchas cosas podemos coincidir. Tras un año estudiando de forma autónoma por la UNED, y tras haber hablado con muchos alumnos de distintas universidades, ya que investigué a fondo cada universidad a la que me interesaba entrar tras dejar la UPM (por terror a terminar en una situación similar), he llegado a ciertas conclusiones que tal vez puedan resultar interesantes o útiles, igual que me fue útil a mí leer aquel escrito que un alumno graduado hizo hablando sobre la escuela, que fue una de las cosas que me ayudó a ver que no ese no era mi lugar.
 
 
 Esto va a ser un relato largo, en el que pretendo hablar de cómo me he enfrentado a ciertas situaciones y dar con ello toda la información que pueda ser relevante. Ha quedado un escrito largo, así que voy a dejar por aquí un índice con las cosas que trato, por si queréis saltaros algo.
@@ -37,7 +37,7 @@ Si eres totalmente ajeno, lo básico es que se trata de un lugar famoso por su d
 Como dicen en su apartado de "¿Por qué elegirnos?": "Educamos en la cultura del esfuerzo, para garantizarte las mejores oportunidades de futuro. El rigor y la excelencia permitirán tu superación personal y estarás preparado para el entorno global y competitivo de la profesión."<br>
 Efectivamente, es tan malo como suena.
 
-A esta carrera entra gente con nota alta de bachillerato, si eres uno de ellos y piensa que con esa trayectoria no puede ser tan difícil estás equivocado, todos tienen ese perfil, yo mismo fui de los mejores de mi promoción. Bachillerato no significa nada, para bien o para mal, hay un salto considerable en el método de estudio del instituto a la universidad.
+A esta carrera entra gente con nota alta de bachillerato, si eres uno de ellos y piensas que con esa trayectoria no puede ser tan difícil estás equivocado, todos tienen ese perfil, yo mismo fui de los mejores de mi promoción. Bachillerato no significa nada, para bien o para mal, hay un salto considerable en el método de estudio del instituto a la universidad.
 
 
 
