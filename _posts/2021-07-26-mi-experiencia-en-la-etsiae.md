@@ -175,9 +175,12 @@ Solicité entrar en física en la UCM, y en la UA, y fui admitido en ambas. Pero
 
 
 Mis temores sobre la docencia online se han cumplido: tanto en la UPM como en la UCM hay constantes quejas sobre la docencia intermitente, los exámenes presenciales en plena pandemia, y las incompatibilidades de ciertos planes docentes con la no presencialidad, se hace más patente todavía la dependencia de explicaciones del profesor y la ausencia de buen material base. La UNED en cambio no ha cambiado demasiado, e incluso ha apostado por los exámenes 100% online, que aunque en ocasiones ha supuesto problemas, mi experiencia con ellos ha sido buena.
+
 Yo tenía ya cierta práctica estudiando por mi cuenta, y esta vez ha sido todo sorprendentemente cómodo.
 Primero, en unas mejor y en otras peor, pero en todas las asignaturas se nos han facilitado unas pautas de estudio, con la cantidad de horas necesarias para cada tema, y una planificación en ocasiones semanal, de por donde tenemos que llevar el temario, ejercicios, ejemplos, ...
+
 Hay profesores, pero su función es un poco guiar ligeramente el estudio y solucionar dudas, no son responsables de darte el temario, para eso están los libros, libros que, de una forma más o menos clara, explican todo lo referente a esa asignatura. Además, no es necesario acudir a wuolah en busca de exámenes de otros años, la UNED los tiene todos organizados. En cuanto a dudas, los foros, en mi experiencia, son atendidos por los profesores y resuelven hasta dudas de exámenes anteriores.
+
 En general, el material proporcionado para estudiar la asignatura es sólido y útil. Es cierto que esto depende de la asignatura, se dice que en ciertas asignaturas es más difícil encontrar problemas, los profesores no resuelven tantas dudas en los foros, y las explicaciones del libro son muy complejas, pero no parece ser la norma, y en cualquier caso prefiero un mal libro a un mal profesor.
 
 
@@ -188,6 +191,7 @@ Es cierto que ahora no estudio ingeniería sino física, es posible que en otras
 
 A lo largo de todo este relato, he omitido un elemento de cuya importancia no estoy muy seguro: tengo un problema familiar grave, fui consciente de ello desde el segundo cuatrimestre del primer año. Yo era muy útil en casa, pero desde luego nada era culpa mía, yo debía seguir con mi vida y ellos se podían desenvolver sin mi ayuda, pero tuve en mis manos la elección entre dedicarme a mi carrera, o dedicarme a la gente a la que quiero. Por eso cada suspenso dolía el doble, y cada segundo dedicado a la carrera era más importante para mí, tenía que merecer la pena.
 Ignoro hasta qué punto esto me ha afectado, si mi rendimiento se ha visto afectado para bien o para mal (nunca he sido muy sensible a estas cosas).
+
 En cualquier caso, quiero contrastar cómo era mi rendimiento en la ETSIAE, cuando solo tenía que preocuparme en la carrera, frente a mi segundo cuatrimestre de la UNED, con 4 asignaturas, entre ellas la más difícil del curso. En este segundo cuatrimestre, he dedicado mucho tiempo y atención en ayudar a mi familia, he tenido los momentos más duros psicológicamente de mi vida (nada de vida o muerte, pero es lo más duro que he vivido). Y en todo este proceso, he llevado al día la carrera, y no solo eso, lo he disfrutado incluso cuando me ha tocado dormir mal porque no me daba tiempo a acabar el temario. Estudiar era algo que me relajaba, que me gustaba y disfrutaba. Le he dedicado menos tiempo del que me hubiera gustado, y aún así, no he bajado del 7,5 salvo en una suspensa con un 4, en la cual tengo un buen entendimiento general del asunto pero he descuidado practicar ejercicios, fue un examen un poco turbio, muchos dicen que fue injusto, y si lo comparas con exámenes de otros años, fue más difícil, pero comparándolo con la ETSIAE, no fue para tanto. Tengo la certeza de que puedo sacar muy buena nota en la recuperación, que encima tengo en septiembre, con tiempo de sobra para repasarlo todo a fondo y disfrutarlo.
 
 Me sorprendería que todo esto sea por mi manera de ser, o por tratarse de una ingeniería, he hablado con suficiente gente, con gente que ha abandonado diferentes carreras, con gente que conoce gente de la ETSIAE, con gente que ha oído hablar de ese sitio, gente que acabó una ingeniería que no disfrutó. Igual mi caso ha sido algo fuera de lo común, pero la ETSIAE es un sitio fuera de lo común, de eso no tengo la menor duda.
@@ -214,8 +218,6 @@ Es cierto que ahora en física he visto la otra cara, he estado en un examen que
 #### Calidad
 
 La verdad, ignoro si realmente la ETSIAE te prepara mejor que otras escuelas, es factible que tengan mejor nivel en física de fluidos que en ningún otro lado, pero es duro, muy duro, más duro que en ningún otro sitio.
-
-Desde luego, en cuanto a calidad docente, pues no veo mucha. En cualquier caso se obtendrá un nivel alto porque se exige, pero no es que se ayude mucho a obtenerlo.
 
 Está más que claro que la exigencia en los exámenes es mayor que en otras ingenierías, solo hay que comparar exámenes. ¿Y se corresponde esa dificultad con la calidad docente? Por lo que he visto en los primeros cursos, no, no hay mejores profesores que en otras universidades, ni explican mejor, ni se dan más herramientas de estudio.
 
