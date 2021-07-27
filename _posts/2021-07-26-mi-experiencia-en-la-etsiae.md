@@ -7,7 +7,7 @@ permalink: "/:title/"
 # Mi experiencia en la ETSIAE
 
 
-Ha pasado más de un año desde que decidí abandonar mi lamentable trayectoria académica en la ETSIAE-UPM y, literalmente, "hacer cualquier cosa menos seguir allí", he renunciado a todo el esfuerzo y dinero que invertí allí.
+<p style="text-align:center;">Ha pasado más de un año desde que decidí abandonar mi lamentable trayectoria académica en la ETSIAE-UPM y, literalmente, "hacer cualquier cosa menos seguir allí", he renunciado a todo el esfuerzo y dinero que invertí allí.
 
 Tras mi decisión, en plena cuarentena, me dispuse a repetir la fase específica de selectividad, para solicitar acceso a grados de ingeniería en otras universidades y, principalmente, a grados de física, porque ahora tenía una mejor visión de lo que eran estos estudios, y me conocía mejor.
 Me admitieron en Alicante y en Madrid, pero finalmente me decidí por la UNED, (por motivos personales, y por la pandemia).
@@ -274,7 +274,7 @@ Sé que muchos ingenieros tienen en mente estudiar algo a distancia una vez acab
 
 <a href="/blog/la-uned-para-un-ex-aero/">La UNED para un ex-aero</a>
 
-
+</p>
 
 
 <script src="https://utteranc.es/client.js"
