@@ -22,7 +22,7 @@ Hay que decir que se comenta que la cosa se vuelve más dura en cursos superiore
 No es una maravilla, no es la universidad ideal que uno desearía, pero me da la sensación de que en este sentido no es tan diferente que el resto de universidades españolas.
 
 
-##### Evaluación y exámenes
+### Evaluación y exámenes
 
 La evaluación por lo general se basa mucho en un exámen final sobre el que recae toda la nota, aunque la mayoría de asignaturas hay algún tipo de prueba intermedia opcional que puede darte 1 punto extra si apruebas, y se suele conservar en caso de irte a extraordinaria. Por lo general suele ser útil realizar la prueba intermedia porque es una buena forma de comprobar si lo llevas al día, aunque a veces, sobre todo ahora que con la pandemia los exámenes han cambiado, no son tan parecidas a los exámenes finales.
 Viniendo de aero, no me ha molestado mucho tener todo exámenes finales, estoy acostumbrado a ir a ordinarios y extraordinarios, y el hecho de que no hubiese que comerse la cabeza con parciales me ha resultado cómodo, claro que no pensaría lo mismo si me hubiese ido muy mal con los finales.
@@ -32,13 +32,13 @@ Los exámenes tienen lugar en un par de semanas, con una semana de descanso entr
 
 Otra cosa útil es que la convocatoria extraordinaria es en septiembre, por lo que dejarse una asignatura entera para prepararla en verano es una opción, arriesgada porque te la juegas solo a una y no tienes pruebas intermedias, pero que está ahí.
 
-###### Prácticas
+### Prácticas
 
 Las asignaturas no tienen prácticas por lo que he visto, salvo las exclusivas de laboratorio. En estas sí que se requiere estar un poco atento, aunque se puede solicitar hacer todas las prácticas seguidas en Madrid, para gente que reside fuera de España o no puede de otra forma, lo suyo es acudir a un centro que te designan y durante algunas semanas ir realizando prácticas. En mi caso han sido unas 8 prácticas, de menos de una hora cada una, pero éramos muy pocos e ibamos muy rápido, quizás en otros sitios cambie la cosa mucho. Si eres de Madrid, no creo que haya mucho problema, pero si eres de provincias, hay que andarse con ojo porque si no hay grupo te pueden mandar al quinto pino, o eso he oído, yo he dado las prácticas yo solo, porque ninguno de los 7 matrículados se presentó a parte de mí.
 
 
 
-###### Estudio a distancia
+### Estudio a distancia
 
 Como ya he dicho, todo en la UNED parece preparado para dar mucha libertad y no requerir mucha atención, más de la que tengas disponible. Si dispones de todo tu tiempo y solo quieres estudiar, todo esto hasta podría ser malo, pero tiene sus ventajas, principalmente porque puedes repartirte el tiempo como quieras. Normalmente cuando vas a la presencial tienes unas horas de clase, y el resto para estudiar por tu cuenta, a distancia todo el tiempo es para estudiar por tu cuenta, de este modo los temas que más te cuesten te llevarán más tiempo y los que mejor entiendas los pasarás enseguida, en otras palabras estudiarás a tu ritmo. Desde luego necesitas cierta experiencia para saber si estás entendiendo las cosas, organizarte y ser constante, etc.
 Con un profesor es posible que te descuelgues en algún momento y llegue un punto en el que tengas que tomar la decisión de si ir a clase y arriesgarse a no entender nada, o quedarte en la biblioteca tratandote de poner al día para aprovechar la clase próxima. Ahora con las clases grabadas muchos habréis visto como eso daba una mayor flexibilidad en ese sentido.
@@ -47,16 +47,16 @@ Otra cosa buena es que dispones de total libertad en cuanto a cómo aprendes. No
 
 Entonces, ¿es sencilla la adaptación? Para alguien acostumbrado a buscarse la vida en la ETSIAE, yo creo que sí.
 
-###### Convalidar
+### Convalidar
 
 ¿Convalidan mucho de Aeroespacial a Física? No estoy nada seguro, hay muchos casos de asignaturas idénticas pero que cambian unas cuantas cosas, que tal vez basten para que no sean convalidables. Por ejemplo Fisica I (Aero) es como Fundamentos de Fisica I (Fisica) pero fundamentos incluye termodinámica y fluidos, no estoy seguro de hasta que punto pueden ir cogiendo un poco de aquí y un poco de allí para convalidarte una asignatura que has cursado entre otras tres. Dicen que tardan bastante en estudiar si te convalidan algo, pero te dejan matricularte de las asignaturas que quieras en cada momento, así que puedes ir haciendo las nuevas y luego ver si te han convalidado algo de lo viejo.
 
-###### Estudiar mientras trabajas
+### Estudiar mientras trabajas
 
 ¿Cómo de factible es estudiar mientras trabajas o haces alguna otra cosa? Muy factible, pero depende de la cantidad de horas que sepas seguro que puedes dedicarle, por lo general, hay que confíar en las 150 horas por asignatura, y recomiendan dejar tiempo de margen por imprevistos y eso. Lo más recomendable desde luego es consultar en los grupos de alumnos de Telegram, y en el blog de antes para hacer una estimación de las horas que vas a necesitar. Si se trata de una asignatura que ya controlas bastante, pongamos que vas a cursar Fundamentos de Física I pero sabes bastante ya de mecánica y cosas más avanzadas, puedes asumir que te llevará mucho menos tiempo de lo establecido, asegúrate de echar un ojo a los exámenes y ver si serías capaz de resolverlo, o cuanto tiempo crees que necesitarás para preparartelo. Por experiencia en algunas asignaturas tardarías menos horas si fueses a saco a prepararte el exámen en lugar de pararte a entenderlo todo con calma, siempre es una opción a tener en cuenta.
 Para tener acceso a los exámenes de todas las carreras de la UNED, tenéis que haceros usuarios de la web de la UNED, pero no es necesario matricularte en nada.
 
-###### Más información
+### Más información
 
 
 Si queréis más información y detalle sobre el funcionamiento de cada asignatura y la escuela en general, existe un blog muy completo, deberíais echarle un ojo: <a href="https://fisicaenlauned.wordpress.com/">fisicaenlauned</a>
