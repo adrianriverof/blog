@@ -1,0 +1,13 @@
+
+
+Vale, me gustaría hacer un sistema automatizado de portadas de los artículos, pero tal vez haya artículos más difíciles, que no tengan portada.
+
+Parece un poco complejo, entonces estoy por quitar todo el menú y tal (guardar el código para un futuro) y simplemente dejarlo en Archivo
+
+Lo de las categorías es interesante, por organizar lo que es videojuegos del resto. Seguramente sea lo próximo que haga
+
+
+En el caso de las categorías, no creo que sea necesario un sistema automatizado, ya que no tengo un ritmo de escritura inmenso, puedo hacerlo de forma manual
+
+
+https://lineadecodigo.com/html/imagen-con-enlace-en-html/
